@@ -1,0 +1,9 @@
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\bin\Debug\netstandard2.1\BinanceMonitor.Core.deps.json
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\bin\Debug\netstandard2.1\BinanceMonitor.Core.dll
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\bin\Debug\netstandard2.1\BinanceMonitor.Core.pdb
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.AssemblyInfoInputs.cache
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.AssemblyInfo.cs
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.csproj.CoreCompileInputs.cache
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.dll
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.pdb
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\netstandard2.1\BinanceMonitor.Core.csprojAssemblyReference.cache

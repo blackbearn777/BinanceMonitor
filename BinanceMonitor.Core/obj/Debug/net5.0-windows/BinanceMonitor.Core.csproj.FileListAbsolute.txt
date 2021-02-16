@@ -1,0 +1,5 @@
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\net5.0-windows\BinanceMonitor.Core.csprojAssemblyReference.cache
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\net5.0-windows\BinanceMonitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\net5.0-windows\BinanceMonitor.Core.AssemblyInfoInputs.cache
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\net5.0-windows\BinanceMonitor.Core.AssemblyInfo.cs
+C:\Users\BlackbearnPC\source\repos\BinanceMonitor\BinanceMonitor.Core\obj\Debug\net5.0-windows\BinanceMonitor.Core.csproj.CoreCompileInputs.cache

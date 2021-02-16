@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MvvmCross/7.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/MvvmCross.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "MvvmCross.Platforms.Wpf/7.0.0": {
+        "dependencies": {
+          "MvvmCross": "7.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MvvmCross.Platforms.Wpf.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Text.Json/5.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.220.61120"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvvmCross/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+3VkfvovtCTdyzf2fRH9NnLBk2Ytu/3o/k4RqbhEaepiw7c8vrjATp4Q9GP2u8Kl8rSBVywWIPyqjNLcgITaWQ==",
+      "path": "mvvmcross/7.0.0",
+      "hashPath": "mvvmcross.7.0.0.nupkg.sha512"
+    },
+    "MvvmCross.Platforms.Wpf/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0VORtNPwEQj2b8XtTjG+vt3EKC/EvYtgXA0w9ysnWYbfBZvt9EwnzG4rpRHrHqTTwbGs5uFh90zwCyDFXWbCJg==",
+      "path": "mvvmcross.platforms.wpf/7.0.0",
+      "hashPath": "mvvmcross.platforms.wpf.7.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Text.Json/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/UM3UK1dXKl8Ybysg/21gM4S8DJgkR+yLU8JwqCVbuNqQNImelntgYFAN5QxR8sJJ1kMx//hOUdf0lltosi8cQ==",
+      "path": "system.text.json/5.0.1",
+      "hashPath": "system.text.json.5.0.1.nupkg.sha512"
+    }
+  }
+}
